@@ -1,3 +1,17 @@
+@import url('https://fonts.googleapis.com/css?family=IBM+Plex+Sans:500');
+
 html, body {
   margin:0;
+  cursor: crosshair;
+}
+
+.hidden {
+  display: none;
+}
+
+#initial-msg {
+  text-align: center;
+  margin-top: 50px;
+  font-size: 32px;
+  font-family: 'IBM Plex Sans', sans-serif;
 }
